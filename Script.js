@@ -51,7 +51,7 @@ $(document).ready(function () {
 
   var typed2 = new Typed(".typing-2", {
     strings: [
-      "UI/UX Desiner.",
+      "UI/UX Designer.",
       "UI/UX Developer.",
       "Lifelong Learner.",
       "Web Designer."
