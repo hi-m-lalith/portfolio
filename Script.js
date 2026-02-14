@@ -39,7 +39,7 @@ $(document).ready(function () {
   // Typing text animation script
   var typed = new Typed(".typing", {
     strings: [
-      "UI/UX designer",
+      "UI/UX Designer",
       "UI/UX Developer.", 
       "Lifelong Learner.",
       "Web Designer."
